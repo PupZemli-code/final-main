@@ -1,6 +1,6 @@
 module githab.com/PupZemli-code/final-main
 
-go 1.24.1
+go 1.22.12
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
